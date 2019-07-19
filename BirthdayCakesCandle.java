@@ -26,6 +26,8 @@ public class BirthdayCakesCandle {
 			
 		}
 		System.out.println(count);
+		// I am removing previous change
+		//add
 
 	}
 
